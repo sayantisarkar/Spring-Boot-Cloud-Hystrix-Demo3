@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: 1006_3_Employee_Consumer_Hystrix_Intro_Console_B
+ ased_Customized_Properties2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jagadish.sanjeevi
+Implementation-Vendor-Id: com.lkm.accenture
+Build-Jdk: 1.8.0_221
+Implementation-URL: http://projects.spring.io/spring-boot/1006_3_Emplo
+ yee_Consumer_Hystrix_Intro_Console_Based_Customized_Properties2/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
